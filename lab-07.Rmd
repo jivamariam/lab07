@@ -1,6 +1,6 @@
 ---
 title: "Lab 07 - Modelling earnings and course evaluations"
-author: "INSERT NAME HERE"
+author: "Mariam Jiva"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -10,7 +10,6 @@ output: html_document
 ```{r load-packages, message=FALSE, echo=TRUE}
 library(tidyverse)
 library(tidymodels)
-
 ```
 
 ## Data set: college recent grads
